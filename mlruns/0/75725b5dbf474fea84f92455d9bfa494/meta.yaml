@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/75725b5dbf474fea84f92455d9bfa494/artifacts
+end_time: 1670862147694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75725b5dbf474fea84f92455d9bfa494
+run_name: calm-auk-685
+run_uuid: 75725b5dbf474fea84f92455d9bfa494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670862119821
+status: 3
+tags: []
+user_id: markuswehr

@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.6-x86_64-i386-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2022-12-12T16:00:09.537875",
+    "startedAt": "2022-12-12T16:00:07.910679",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "/Users/markuswehr/Documents/Github/Genre_Classification/download/download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/markuswehr/Genre_Classification.git",
+        "commit": "d335d340f0a9ac11f427584f2458451e947de8c0"
+    },
+    "email": "wehr.markus@web.de",
+    "root": "/Users/markuswehr/Documents/Github/Genre_Classification",
+    "host": "MacBook-Air-von-Markus.fritz.box",
+    "username": "markuswehr",
+    "executable": "/Users/markuswehr/miniconda3/envs/mlflow-029b847b797538bf305204238741d4347f5e47c3/bin/python"
+}

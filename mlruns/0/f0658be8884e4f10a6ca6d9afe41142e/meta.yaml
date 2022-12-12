@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/f0658be8884e4f10a6ca6d9afe41142e/artifacts
+end_time: 1670862537879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0658be8884e4f10a6ca6d9afe41142e
+run_name: salty-yak-691
+run_uuid: f0658be8884e4f10a6ca6d9afe41142e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670862505690
+status: 3
+tags: []
+user_id: markuswehr

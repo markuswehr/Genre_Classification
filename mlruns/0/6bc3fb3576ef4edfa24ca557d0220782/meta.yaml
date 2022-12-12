@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/6bc3fb3576ef4edfa24ca557d0220782/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bc3fb3576ef4edfa24ca557d0220782
+run_name: defiant-mouse-789
+run_uuid: 6bc3fb3576ef4edfa24ca557d0220782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670860089282
+status: 1
+tags: []
+user_id: markuswehr

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/8af8bf62978b46c582243ffda1b525cb/artifacts
+end_time: 1670861709663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8af8bf62978b46c582243ffda1b525cb
+run_name: debonair-hog-863
+run_uuid: 8af8bf62978b46c582243ffda1b525cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861703905
+status: 4
+tags: []
+user_id: markuswehr

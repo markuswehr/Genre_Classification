@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/e9d8568b8cba46279789ae3855d65882/artifacts
+end_time: 1670862354591
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d8568b8cba46279789ae3855d65882
+run_name: agreeable-auk-414
+run_uuid: e9d8568b8cba46279789ae3855d65882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670862286500
+status: 3
+tags: []
+user_id: markuswehr

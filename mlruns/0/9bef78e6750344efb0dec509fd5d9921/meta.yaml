@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/9bef78e6750344efb0dec509fd5d9921/artifacts
+end_time: 1670861236144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bef78e6750344efb0dec509fd5d9921
+run_name: auspicious-foal-251
+run_uuid: 9bef78e6750344efb0dec509fd5d9921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861219562
+status: 3
+tags: []
+user_id: markuswehr

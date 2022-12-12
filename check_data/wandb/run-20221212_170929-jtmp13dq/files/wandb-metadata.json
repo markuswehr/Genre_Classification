@@ -1,0 +1,31 @@
+{
+    "os": "macOS-12.6-x86_64-i386-64bit",
+    "python": "3.9.15",
+    "heartbeatAt": "2022-12-12T16:09:32.523201",
+    "startedAt": "2022-12-12T16:09:29.858502",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "processed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/Users/markuswehr/miniconda3/envs/mlflow-8e76858e4a2db0919e08db6b1fb679975d882e04/bin/pytest",
+    "git": {
+        "remote": "https://github.com/markuswehr/Genre_Classification.git",
+        "commit": "d335d340f0a9ac11f427584f2458451e947de8c0"
+    },
+    "email": "wehr.markus@web.de",
+    "root": "/Users/markuswehr/Documents/Github/Genre_Classification",
+    "host": "MacBook-Air-von-Markus.fritz.box",
+    "username": "markuswehr",
+    "executable": "/Users/markuswehr/miniconda3/envs/mlflow-8e76858e4a2db0919e08db6b1fb679975d882e04/bin/python"
+}

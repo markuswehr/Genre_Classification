@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/53a952a74bac4a42837aa568225b6e62/artifacts
+end_time: 1670861204368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53a952a74bac4a42837aa568225b6e62
+run_name: carefree-colt-84
+run_uuid: 53a952a74bac4a42837aa568225b6e62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861184048
+status: 3
+tags: []
+user_id: markuswehr

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/a669a784462f41deb7832e83630c736f/artifacts
+end_time: 1670860499482
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a669a784462f41deb7832e83630c736f
+run_name: worried-moth-350
+run_uuid: a669a784462f41deb7832e83630c736f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670860493798
+status: 4
+tags: []
+user_id: markuswehr

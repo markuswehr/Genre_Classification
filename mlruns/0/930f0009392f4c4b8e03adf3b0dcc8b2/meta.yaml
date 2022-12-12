@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/930f0009392f4c4b8e03adf3b0dcc8b2/artifacts
+end_time: 1670861748965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 930f0009392f4c4b8e03adf3b0dcc8b2
+run_uuid: 930f0009392f4c4b8e03adf3b0dcc8b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861733128
+status: 3
+tags: []
+user_id: markuswehr

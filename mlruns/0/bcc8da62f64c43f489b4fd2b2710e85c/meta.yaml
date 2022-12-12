@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/bcc8da62f64c43f489b4fd2b2710e85c/artifacts
+end_time: 1670861282775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcc8da62f64c43f489b4fd2b2710e85c
+run_name: dashing-cub-617
+run_uuid: bcc8da62f64c43f489b4fd2b2710e85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861264235
+status: 4
+tags: []
+user_id: markuswehr

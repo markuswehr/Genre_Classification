@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/2b078c3d370144a49bc072d13205693c/artifacts
+end_time: 1670861384177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b078c3d370144a49bc072d13205693c
+run_name: likeable-snail-930
+run_uuid: 2b078c3d370144a49bc072d13205693c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861362324
+status: 4
+tags: []
+user_id: markuswehr

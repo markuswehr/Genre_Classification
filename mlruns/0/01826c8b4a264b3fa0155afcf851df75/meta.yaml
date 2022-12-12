@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/01826c8b4a264b3fa0155afcf851df75/artifacts
+end_time: 1670860619754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01826c8b4a264b3fa0155afcf851df75
+run_name: burly-steed-727
+run_uuid: 01826c8b4a264b3fa0155afcf851df75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670860613726
+status: 4
+tags: []
+user_id: markuswehr

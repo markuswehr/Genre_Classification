@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/markuswehr/Documents/Github/Genre_Classification/mlruns/0/86ca9329f1124988ac6b2bdbeec6a7d5/artifacts
+end_time: 1670861926956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86ca9329f1124988ac6b2bdbeec6a7d5
+run_name: traveling-grouse-244
+run_uuid: 86ca9329f1124988ac6b2bdbeec6a7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670861871234
+status: 3
+tags: []
+user_id: markuswehr

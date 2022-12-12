@@ -1,0 +1,35 @@
+{
+    "os": "macOS-12.6-x86_64-i386-64bit",
+    "python": "3.9.15",
+    "heartbeatAt": "2022-12-12T16:21:28.140363",
+    "startedAt": "2022-12-12T16:21:26.656530",
+    "docker": null,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/markuswehr/Documents/Github/Genre_Classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/markuswehr/Genre_Classification.git",
+        "commit": "d335d340f0a9ac11f427584f2458451e947de8c0"
+    },
+    "email": "wehr.markus@web.de",
+    "root": "/Users/markuswehr/Documents/Github/Genre_Classification",
+    "host": "MacBook-Air-von-Markus.fritz.box",
+    "username": "markuswehr",
+    "executable": "/Users/markuswehr/miniconda3/envs/mlflow-92cf12d04b7e41650e828b2d6646ca1a486815e4/bin/python"
+}
